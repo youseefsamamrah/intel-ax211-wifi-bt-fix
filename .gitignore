@@ -1,0 +1,6 @@
+# downloaded driver installers / logs (never commit binaries)
+*.exe
+*.zip
+*.log
+intel_drv/
+intel_ax211_fix/
